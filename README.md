@@ -142,12 +142,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Google AI for the Generative AI API
 - OpenGL community for graphics libraries
 - Python speech recognition contributors
-- JARVIS UI inspiration from Marvel's Iron Man
 
-## 📞 Support
-
-For support, email your-email@example.com or create an issue on GitHub.
-
----
-
-**Made with ❤️ by [Your Name]**
