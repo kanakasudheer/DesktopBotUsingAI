@@ -2356,9 +2356,9 @@ This action cannot be undone!"""
         self.on_file_select(None)  # Update selected_items
 
 # ---------- API Keys ----------
-GEMINI_API_KEY = "AIzaSyD6JmG-VkpsHJ_IVqtGyLBqE4bswIwrU9s"
-WEATHER_API_KEY = "0219fe8e02c149cce29114916bfe67e0"
-NEWS_API_KEY = "e97ebaa1e77f48788411b8b9f5cd9b6c"
+GEMINI_API_KEY = "YOUR-API-KEY"
+WEATHER_API_KEY = "YOUR-API-KEY"
+NEWS_API_KEY = "YOUR-API-KEY"
 
 genai.configure(api_key=GEMINI_API_KEY)
 gemini_model = genai.GenerativeModel("gemini-2.5-flash")
