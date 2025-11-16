@@ -2356,7 +2356,7 @@ This action cannot be undone!"""
         self.on_file_select(None)  # Update selected_items
 
 # ---------- API Keys ----------
-GEMINI_API_KEY = "YOUR-API-KEY"
+GEMINI_API_KEY = "YOUR-API-KEY "
 WEATHER_API_KEY = "YOUR-API-KEY"
 NEWS_API_KEY = "YOUR-API-KEY"
 
