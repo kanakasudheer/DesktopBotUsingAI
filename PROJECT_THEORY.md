@@ -736,7 +736,6 @@ finally:
 ### Installation Steps
 ```bash
 # Clone or download project
-cd c:\7th sem\final_project
 
 # Create virtual environment
 python -m venv venv
@@ -776,3 +775,4 @@ This architecture demonstrates integration of cutting-edge technologies to creat
 **Project Version**: 1.0  
 **Last Updated**: November 15, 2025  
 **Status**: Production Ready with Enhancements
+
